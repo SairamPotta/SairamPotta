@@ -4,9 +4,10 @@ Hi 👋 My name is Kumara Naga Venkata Sairam Potta
 Associate Technical Lead
 ------------------------
 
-Hi, I am a Mean Stack developer having 6+ years of Experience in the Software Industry. Starter Career with Angular Developer with Hands-on experience in HTML 5, CSS 3, and JavaScript. Now I am working as a MEAN Stack developer using Backend Technologies like Nodejs and NestJs, along with Knowledge of Cloud Concepts like Docker and K18. Having Good exposure on writing the unit test cases using the Jest Framework
+Hi, I am a Mean Stack developer having 6+ years of Experience in the Software Industry. Starter Career with Angular Developer with Hands-on experience in HTML 5, CSS 3, and JavaScript. Now I am working as a MEAN Stack developer using Backend Technologies like Nodejs and NestJs, along with Knowledge of Cloud Concepts like Docker and K18. Having Good exposure to writing the unit test cases using the Jest Framework
 
 * 🌍  I'm based in India
+* 🖥️  See my portfolio at [My Portfolio](http://sairampotta.github.io/portfolio/)
 * ✉️  You can contact me at [kumarsaifinal@gmail.com](mailto:kumarsaifinal@gmail.com)
 * 🚀  I'm currently working on [Analytics Based Appliaction](http://github.com/SairamPotta)
 * 🧠  I'm learning Cloud Deployments, Docker and Kubernetes
@@ -29,7 +30,7 @@ Hi, I am a Mean Stack developer having 6+ years of Experience in the Software In
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/SairamPotta"><img src="https://github-readme-stats.vercel.app/api?username=SairamPotta&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="SairamPotta's GitHub stats" /></a>
+<a href="http://www.github.com/SairamPotta"><img src="https://github-readme-stats.vercel.app/api?username=SairamPotta&show_icons=true&hide=contribs&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="SairamPotta's GitHub stats" /></a>
 
 <a href="http://www.github.com/SairamPotta"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SairamPotta&stroke=ffffff&background=000000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
